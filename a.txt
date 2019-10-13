@@ -1,8 +1,6 @@
 hahaha
-<<<<<<< HEAD
 a:haha
 a2: haha
-=======
 b:heihei
 b2:heihei
->>>>>>> b2
+b3:heihei
